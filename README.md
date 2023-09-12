@@ -6,6 +6,6 @@
 
 📈With four years of professional analytics experience and a strong academic background, I possess an excellent foundation in the analytical field. My adeptness in data analysis and visualization is evident, and I possess an in-depth understanding of Python, R, SQL, and Tableau.
 
-🎯My work and studies have been guided by the goal of developing a comprehensive perspective on how technology influences organizational growth. I constantly challenge myself to explore various technology aspects, drawing insights from different viewpoints to enhance problem-solving and analytical skills. Throughout my career journey, I've prioritized close collaboration with teams, aiming to deeply understand business processes before delving into data analysis for root cause identification.
+🎯My work and studies have been guided by the goal of developing a comprehensive perspective on how technology influences organizational growth. I constantly challenge myself to explore various technology aspects, drawing insights from different viewpoints to enhance problem-solving and analytical skills.
 
 Link to my Github: https://github.com/Sudeshna31
