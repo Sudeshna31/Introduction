@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sudeshna</h1>
 
+<div align="center">
 <img src="https://github.com/Sudeshna31/Introduction/assets/122232824/f3391a47-d672-448d-b5b1-5171edec8f53" alt="Alt Text" width="200" height="250">
+</div>
 
 🚀I am a graduate student pursuing a master’s degree in business Analytics and Information Systems at the University of South Florida, Tampa. 
 
